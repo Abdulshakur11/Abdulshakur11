@@ -2,7 +2,7 @@
 
 ###### I’m currently learning Full-Satck Web Developer at Najot Ta'lim.
 
-#### Skils
+<!-- #### Skils -->
 
 
 <!--
