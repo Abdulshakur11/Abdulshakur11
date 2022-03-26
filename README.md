@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 ![Abdulshakur11's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulshakur11&show_icons=true&theme=react)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Sanke game
+![snake gif](https://github.com/Abdulshakur11/Abdulshakur11/blob/output/github-contribution-grid-snake.gif)
