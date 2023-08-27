@@ -1,6 +1,6 @@
 ## Hi there!👋 I'm Abdushukur
 
-###### I’m currently learning Full-Satck Web Developer at Najot Ta'lim.
+###### I’m a Software engineer
 
 <!-- #### Skils -->
 
